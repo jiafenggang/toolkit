@@ -1,0 +1,4 @@
+  The method described in main.cpp use STL, it can convert between wstring and string successfully,but the pity 
+is that it cann't surpport Chinese well.
+  alternatively, the UTIL class use the win32 API, which can convert between char and wchar_t well regardless of 
+English or Chinese.
